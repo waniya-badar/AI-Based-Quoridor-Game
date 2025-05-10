@@ -12,8 +12,8 @@ An Artificial Intelligence-powered implementation of the Quoridor board game usi
 - Full-featured implementation of the classic Quoridor board game.
 - Supports 2 and 4 playersI.
 - Multiple AI difficulty levels:
-Easy: BFS (Breadth-First Search)
-Hard: A* Search Algorithm + BFS
+  - Easy: BFS (Breadth-First Search)
+  - Hard: A* Search Algorithm + BFS
 - Intuitive GUI.
 - Integrated sound effects for moves, wins, and fence placements.
 
