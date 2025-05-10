@@ -7,6 +7,9 @@ An Artificial Intelligence-powered implementation of the Quoridor board game usi
 #### AI Project Report
 [AI Project Report](https://drive.google.com/file/d/11TrHb0IiT9lvZiljO_qsrVVA4rb9jZ55/view?usp=sharing)
 
+#### AI Project Proposal
+[AI Project Proposal](https://docs.google.com/document/d/1ndKIAqqc6xcQI3ykf3WHAUshuvmWsvdP/edit?usp=sharing&ouid=108623326638263762592&rtpof=true&sd=true)
+
 #### Features
 - Full-featured implementation of the classic Quoridor board game.
 - Supports 2 and 4 playersI.
