@@ -19,8 +19,7 @@ This project was developed as part of an AI lab course to practically apply conc
 
 #### How does it work?
 - The game initializes a GUI-based board and allows players to take turns moving or placing fences.
-- AI opponents evaluate the best possible move using the selected algorithm (BFS-easy and A* 
-  + BFS-hard).
+- AI opponents evaluate the best possible move using the selected algorithm (BFS-easy and A*+BFS-hard).
 - Players win by reaching the opposite side of the board while blocking others with fences.
   
 #### How was it implemented?
@@ -49,8 +48,10 @@ This project was developed as part of an AI lab course to practically apply conc
 
 #### Team Contributions:
 Waniya Badar 22k-4526 — Implemented the core game engine, AI player logic (BFS, DFS, A*), and turn-based logic.
+
 Alishba Hassan 22k-4333 — Designed and implemented the GUI using pygame, integrated sound effects, and managed user interactions.
-Nimil Zubair 22k-4617 — Worked on testing, debugging, and documentation (AI Lab Report).
+
+Nimil Zubair 22k-4617 — Worked on testing, debugging, and documentations.
 
 #### Installation
 pip install pygame
