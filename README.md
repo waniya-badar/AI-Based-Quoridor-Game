@@ -2,7 +2,7 @@
 An Artificial Intelligence-powered implementation of the Quoridor board game using Python and Pygame. This game supports 2 and 4 players, including human and AI-controlled opponents. AI difficulty levels are based on different pathfinding algorithms.
 
 #### AI Project Video Demo
-[[Link Text](https://drive.google.com/file/d/1B1LBEiAZ91TOKkLZ95AXbCFne00hOj7C/view?usp=sharing)]([https://github.com/username/repository](https://drive.google.com/file/d/1B1LBEiAZ91TOKkLZ95AXbCFne00hOj7C/view?usp=sharing))
+[Link Text]([https://github.com/username/repository](https://drive.google.com/file/d/1B1LBEiAZ91TOKkLZ95AXbCFne00hOj7C/view?usp=sharing))
 
 #### Features
 - Full-featured implementation of the classic Quoridor board game.
