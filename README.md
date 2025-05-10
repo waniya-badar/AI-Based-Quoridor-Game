@@ -8,6 +8,36 @@ An Artificial Intelligence-powered implementation of the Quoridor board game usi
 
 [AI Project Proposal](https://docs.google.com/document/d/1ndKIAqqc6xcQI3ykf3WHAUshuvmWsvdP/edit?usp=sharing&ouid=108623326638263762592&rtpof=true&sd=true)
 
+#### Why was the project developed?
+This project was developed as part of an AI lab course to practically apply concepts of artificial intelligence, particularly pathfinding algorithms, in a real-time strategic board game. The objective was to demonstrate how decision-making algorithms can be integrated into a user-interactive environment.
+
+#### What does the project do?
+- Allows users to play the board game Quoridor against human or AI players.
+- Supports 2 and 4 players with dynamically adjusted turns.
+- Integrates intelligent AI agents with difficulty levels using different algorithms.
+- Provides visual and audio feedback for an engaging user experience.
+
+#### How does it work?
+- The game initializes a GUI-based board and allows players to take turns moving or placing fences.
+- AI opponents evaluate the best possible move using the selected algorithm (BFS-easy and A* 
+  + BFS-hard).
+- Players win by reaching the opposite side of the board while blocking others with fences.
+  
+#### How was it implemented?
+- Language & Libraries: Python with pygame for graphics and sound.
+- Board Logic: Represented as a grid with validation for legal movements and fence placements.
+- Algorithms:
+  - Breadth-First Search (BFS): Ensures the shortest available path.
+  - A*: Heuristic-based pathfinding for intelligent decision-making.
+- GUI: Draws grid, players, fences; handles real-time inputs and updates.
+- Sound Effects: Triggered on player moves, fence placements, and game wins
+
+#### What makes this project stand out?
+- Unlike many simple AI projects, this game integrates multiple difficulty levels using different search algorithms, allowing a comparison of AI behaviors.
+- The 4-player support and real-time GUI make it more interactive than typical 2-player board AI demos.
+- Designed with modularity and extensibility in mind, new features or algorithms can be added with ease.
+- Adds a complete user experience through game sounds, turn handling, and visual feedback.
+
 #### Features
 - Full-featured implementation of the classic Quoridor board game.
 - Supports 2 and 4 players.
@@ -16,6 +46,11 @@ An Artificial Intelligence-powered implementation of the Quoridor board game usi
   - Hard: A* Search Algorithm + BFS
 - Intuitive GUI.
 - Integrated sound effects for moves, wins, and fence placements.
+
+#### Team Contributions:
+Waniya Badar 22k-4526 — Implemented the core game engine, AI player logic (BFS, DFS, A*), and turn-based logic.
+Alishba Hassan 22k-4333 — Designed and implemented the GUI using pygame, integrated sound effects, and managed user interactions.
+Nimil Zubair 22k-4617 — Worked on testing, debugging, and documentation (AI Lab Report).
 
 #### Installation
 pip install pygame
