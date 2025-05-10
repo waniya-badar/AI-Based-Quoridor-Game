@@ -47,7 +47,7 @@ This project was developed as part of an AI lab course to practically apply conc
 - Integrated sound effects for moves, wins, and fence placements.
 
 #### Team Contributions:
-Waniya Badar 22k-4526 — Implemented the core game engine, AI player logic (BFS, DFS, A*), and turn-based logic.
+Waniya Badar 22k-4526 — Implemented the core game engine, AI player logic (BFS, A*), and turn-based logic.
 
 Alishba Hassan 22k-4333 — Designed and implemented the GUI using pygame, integrated sound effects, and managed user interactions.
 
